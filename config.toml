@@ -27,7 +27,7 @@ title = "Griffin Wirth"
 subtitle = "Integrative Informatics"
 imageUrl = "Wirth.jpg"
 imageWidth = 120
-imageHeight = 140
+imageHeight = 120
 
 [[params.profileMode.buttons]]
 name = "tags"
