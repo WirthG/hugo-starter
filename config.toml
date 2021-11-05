@@ -27,7 +27,7 @@ title = "Griffin Wirth"
 subtitle = "Integrative Informatics"
 imageUrl = "Wirth.jpg"
 imageWidth = 120
-imageHeight = 120
+imageHeight = 160
 
 [[params.profileMode.buttons]]
 name = "tags"
@@ -59,18 +59,18 @@ url = "https://gitlab.com/"
 
 [[menu.main]]
 identifier = "About Me"
-name = "blog"
+name = "Blog"
 url = "/blog/"
 weight = 10
 
 [[menu.main]]
 identifier = "projects"
-name = "projects"
+name = "Projects"
 url = "/projects/"
 weight = 20
 
 [[menu.main]]
 identifier = "link"
-name = "A link"
+name = "Link"
 url = "https://google.com/search?tbm=isch&q=cute%20puppies"
 weight = 30
