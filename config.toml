@@ -1,6 +1,6 @@
 baseURL = "https://griffin-wirth.netlify.app"
 title = "All About Me"
-theme = "Coder"
+theme = "hugo-coder"
 
 # Theme configuration
 [params]
