@@ -18,14 +18,14 @@ disableScrollToTop = false
 
 [params.label]
 text = "Home"
-icon = "/Wirth.jpg"
+icon = "/Wirth Profile Picturejpg"
 iconHeight = 24
 
 [params.profileMode]
 enabled = true
 title = "Griffin Wirth"
 subtitle = "Integrative Informatics"
-imageUrl = "Wirth.jpg"
+imageUrl = "Wirth Profile Picture.jpg"
 imageWidth = 120
 imageHeight = 160
 
