@@ -1,6 +1,6 @@
 baseURL = "https://griffin-wirth.netlify.app"
 title = "All About Me"
-theme = "PaperMod"
+theme = "Coder"
 
 # Theme configuration
 [params]
