@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Projects"
 draft: false
 ShowBreadCrumbs: false
 ---
